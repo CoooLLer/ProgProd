@@ -1,0 +1,14 @@
+{
+    "name": "coooller/progprod",
+    "type": "project",
+    "require": {
+        "symfony/dom-crawler": "^5.1",
+        "symfony/cache": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "coooller",
+            "email": "coooller@gmail.com"
+        }
+    ]
+}
